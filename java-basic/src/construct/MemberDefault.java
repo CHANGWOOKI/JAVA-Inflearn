@@ -1,0 +1,10 @@
+package construct;
+
+public class MemberDefault {
+    String name;
+    int age;
+    int grade;
+
+    public MemberDefault() {
+    }
+}
