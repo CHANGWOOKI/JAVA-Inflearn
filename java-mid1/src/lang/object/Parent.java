@@ -5,6 +5,6 @@ package lang.object;
 // 부모 클래스가 없으면 `
 public class Parent {
     public void parentMethod() {
-
+        System.out.println("parentMethod");
     }
 }
